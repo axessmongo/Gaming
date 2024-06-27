@@ -8,6 +8,7 @@
     @apply bg-[#070320]
   }
 }
+
 h1,
 h2,
 h3,
@@ -208,6 +209,7 @@ ul {
 .logo-box img {
   max-width: 220px;
 }
+
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
@@ -215,4 +217,8 @@ ul {
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
   -o-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.logo {
+  width: 100px;
 }

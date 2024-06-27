@@ -13,7 +13,7 @@ const COD = () => {
         <div className="mt-[6rem] " >
             <p className="text-[1.3rem] font-medium text-center lg:text-start " >Step into Mayhem</p>
             <p className="text-sm xl:w-[20rem] text-center lg:text-start text-gray-100" >
-                ght Across Brand-New Battlegrounds in
+                get Across Brand-New Battlegrounds in
                 Season 04, now live!
             </p>
         </div>

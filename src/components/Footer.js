@@ -8,7 +8,7 @@ const Footer = () => {
                     <div className="flex-1" >
                         <p className="text-[1.3rem] font-medium text-center xl:text-start " >Stay in the loop</p>
                         <p className="text-sm mt-2 text-center xl:text-start" >
-                            Subscribe to receive the latest news and updates about TDA.
+                            Subscribe to receive the latest news and updates about DGB.
                             We promise not to spam you!
                         </p>
                     </div>
@@ -27,43 +27,43 @@ const Footer = () => {
                 <div className="container">
                     <div className="footer-content">
                         <div className="row">
-                            <div className="col-lg-4 col-md-6 col-sm-12 footer-column">
-                                <div className="logo-widget footer-widget">
-                                    <figure className="logo-box">
-                                        <a href="#">
-                                            <img src="https://i.ibb.co/QDy827D/ak-logo.png" alt="Logo" />
-                                        </a>
-                                    </figure>
-                                    <div className="text">
-                                        <p>Lorem ipsum dolor amet consectetur adi pisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis.nostrud exercita.laboris nisi ut aliquip ea commodo conse quatuis aute irure.</p>
+                                {/* <div className="col-lg-4 col-md-6 col-sm-12 footer-column">
+                                    <div className="logo-widget footer-widget">
+                                        <figure className="logo-box">
+                                            <a href="#">
+                                                <img src="https://i.ibb.co/QDy827D/ak-logo.png" alt="Logo" />
+                                            </a>
+                                        </figure>
+                                        <div className="text">
+                                            <p>Lorem ipsum dolor amet consectetur adi pisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis.nostrud exercita.laboris nisi ut aliquip ea commodo conse quatuis aute irure.</p>
+                                        </div>
+                                        <ul className="footer-social text-center">
+                                            <li><a href="https://www.facebook.com"><FontAwesomeIcon icon={faFacebookF} /></a></li>
+                                            <li><a href="https://www.twitter.com"><FontAwesomeIcon icon={faTwitter} /></a></li>
+                                            <li><a href="https://www.vimeo.com"><FontAwesomeIcon icon={faVimeoV} /></a></li>
+                                            <li><a href="https://www.google.com"><FontAwesomeIcon icon={faGooglePlusG} /></a></li>
+                                        </ul>
                                     </div>
-                                    <ul className="footer-social text-center">
-                                        <li><a href="https://www.facebook.com"><FontAwesomeIcon icon={faFacebookF} /></a></li>
-                                        <li><a href="https://www.twitter.com"><FontAwesomeIcon icon={faTwitter} /></a></li>
-                                        <li><a href="https://www.vimeo.com"><FontAwesomeIcon icon={faVimeoV} /></a></li>
-                                        <li><a href="https://www.google.com"><FontAwesomeIcon icon={faGooglePlusG} /></a></li>
-                                    </ul>
                                 </div>
-                            </div>
-                            <div className="col-lg-4 col-md-6 col-sm-12 offset-lg-2 footer-column">
-                                <div className="service-widget footer-widget">
-                                    <div className="footer-title text-center">Services</div>
-                                    <ul className="list text-center">
-                                        <li><a href="#">Water Surve</a></li>
-                                        <li><a href="#">Education for all</a></li>
-                                        <li><a href="#">Food Serving</a></li>
-                                        <li><a href="#">Animal Saves</a></li>
-                                        <li><a href="#">Help Orphan</a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                                <div className="col-lg-4 col-md-6 col-sm-12 offset-lg-2 footer-column">
+                                    <div className="service-widget footer-widget">
+                                        <div className="footer-title text-center">Services</div>
+                                        <ul className="list text-center">
+                                            <li><a href="#">Water Surve</a></li>
+                                            <li><a href="#">Education for all</a></li>
+                                            <li><a href="#">Food Serving</a></li>
+                                            <li><a href="#">Animal Saves</a></li>
+                                            <li><a href="#">Help Orphan</a></li>
+                                        </ul>
+                                    </div>
+                                </div> */}
                             <div className="col-lg-4 col-md-6 col-sm-12 footer-widget">
                                 <div className="contact-widget footer-widget">
                                     <div className="footer-title">Contacts</div>
                                     <div className="text">
-                                        <p>Lorem Ipsum, simply dummy text, printing, Chandigarh</p>
-                                        <p>+2(784) 1223323</p>
-                                        <p>info@example.com</p>
+                                        <p>A gaming website where players can explore, compete, and connect with others online.</p>
+                                        <p>987654321</p>
+                                        <p>dreamgamebuilders@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-lg-6 col-md-6 col-sm-12 column">
                                 <div className="copyright">
-                                    <a href="#">Anup</a> &copy; 2019 All Right Reserved
+                                    <a href="#">dreamgamebuilders</a> &copy; 2019 All Right Reserved
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-6 col-sm-12 column">
